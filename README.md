@@ -1,4 +1,4 @@
-# Customer Life Cycle Value Analysis with Plotly Express
+# Customer Life Cycle Value Analysis
 
 ## Project Overview
 Customer Life Cycle Value (CLV) analysis is a crucial practice in the world of business. It involves estimating the total value that a customer is expected to bring to a company throughout their entire relationship. CLV analysis is a powerful tool for making informed decisions about customer acquisition, retention, and marketing strategies. In this project, we have harnessed the capabilities of the Plotly Express library to perform comprehensive CLV analysis and present the results in an interactive and engaging visual format.
