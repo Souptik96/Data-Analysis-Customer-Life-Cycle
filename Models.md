@@ -21,7 +21,7 @@ Plotly Express is a high-level Python library for creating interactive, publicat
 
 - ***Data Storytelling***: When communicating insights to non-technical audiences, interactive Plotly Express charts enhance the storytelling process.
 
--***Dashboards and Web Apps***: Plotly Express is a valuable component for building interactive dashboards and web applications using Plotly's Dash framework.
+- ***Dashboards and Web Apps***: Plotly Express is a valuable component for building interactive dashboards and web applications using Plotly's Dash framework.
 
 - ***Research and Presentations***: Whether you're writing research papers or giving presentations, Plotly Express simplifies the creation of compelling charts to support your findings.
 
